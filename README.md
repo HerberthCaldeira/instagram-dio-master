@@ -1,6 +1,7 @@
 # Págima de login do instagram - Flexbox 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Bootcamp everis FullStack Developer na plataforma da Digital Innovation One.
+Professora: Gabriela Pinheiro.
 
 ### Os requisitos são:
 
